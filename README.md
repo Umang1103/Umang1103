@@ -1,6 +1,6 @@
 ### Hi there, I'm Umang! 👋
 -------
-- 🔭 I’m currently working on Django and .
+- 🔭 I’m currently working on Django and NodeJs.
 - 🌱 I’m currently learning ML and Computer Vision.
 - 💀 I’m looking to collaborate on real world ML projects.
 <!-- - 🤔 I’m looking for help with ...
